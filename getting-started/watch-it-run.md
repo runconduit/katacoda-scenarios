@@ -27,8 +27,8 @@ Of course, the dashboard isn’t the only way to inspect what’s happening in t
 
 To view details per deployment, run:
 
-`conduit stat deployments`{{execute}}
+`conduit -n emojivoto stat deployments`{{execute}}
 
 To see a live pipeline of requests for your application, run:
 
-`conduit tap deploy emojivoto/voting`{{execute}}
+`conduit -n emojivoto tap deploy emojivoto/voting`{{execute}}

@@ -10,7 +10,7 @@ Let's wait until everything is up and running. An easy way to do that is:
 
 Once all the pods started are ready, it is possible to also view the Conduit server's version:
 
-`conduit version`{{execute}}
+`conduit version`{{execute interrupt}}
 
 At this point you'd normally use `conduit dashboard`. Because this tutorial is running in Katacoda, we need to do a little extra work. Run:
 
