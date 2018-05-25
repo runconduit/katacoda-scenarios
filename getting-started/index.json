@@ -35,7 +35,8 @@
   },
   "icon": "fa-kubernetes",
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hidefinish": false
   },
   "backend": {
     "imageid": "minikube"
