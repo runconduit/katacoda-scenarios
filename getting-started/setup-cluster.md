@@ -1,4 +1,4 @@
-<img src="https://conduit.io/images/conduit-primary-white.svg" />
+<script>console.log("test");</script>
 
 Start the cluster via. minikube
 
